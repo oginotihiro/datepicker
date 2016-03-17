@@ -31,4 +31,4 @@ look at the source code of the [sample][1]
     See the License for the specific language governing permissions and
     limitations under the License.
 
-[1]:https://github.com/oginotihiro/snackbar/blob/master/sample/src/main/java/com/oginotihiro/snackbar/sample/MainActivity.java
+[1]: https://github.com/oginotihiro/datepicker/blob/master/sample/src/main/java/com/oginotihiro/datepicker/sample/MainActivity.java
