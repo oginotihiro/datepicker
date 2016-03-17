@@ -1,0 +1,98 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:orientation="vertical">
+        <TextView android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:textColor="@color/red"
+            android:layout_gravity="center_horizontal"
+            android:textSize="20sp"
+            android:text="red"
+            android:id="@+id/colorTv" />
+        <Button android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Select Date"
+            android:id="@+id/dateButton" />
+        <CheckBox android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="vibrate"
+            android:checked="true"
+            android:id="@+id/vibrateCheckBox" />
+        <CheckBox android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="close on single tap day"
+            android:checked="true"
+            android:id="@+id/closeOnSingleTapDayCheckBox" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="48dip"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="8dip"
+        android:layout_marginLeft="4dip"
+        android:layout_marginRight="4dip"
+        android:orientation="horizontal">
+
+        <RelativeLayout
+            android:layout_width="0dip"
+            android:layout_height="match_parent"
+            android:layout_margin="4dip"
+            android:layout_weight="1"
+            android:background="@drawable/oginotihiro_red_selector"
+            android:clickable="true"
+            android:id="@+id/redBtn" />
+
+        <RelativeLayout
+            android:layout_width="0dip"
+            android:layout_height="match_parent"
+            android:layout_margin="4dip"
+            android:layout_weight="1"
+            android:background="@drawable/oginotihiro_deep_purple_selector"
+            android:clickable="true"
+            android:id="@+id/deepPurpleBtn" />
+
+        <RelativeLayout
+            android:layout_width="0dip"
+            android:layout_height="match_parent"
+            android:layout_margin="4dip"
+            android:layout_weight="1"
+            android:background="@drawable/oginotihiro_blue_selector"
+            android:clickable="true"
+            android:id="@+id/blueBtn" />
+
+        <RelativeLayout
+            android:layout_width="0dip"
+            android:layout_height="match_parent"
+            android:layout_margin="4dip"
+            android:layout_weight="1"
+            android:background="@drawable/oginotihiro_green_selector"
+            android:clickable="true"
+            android:id="@+id/greenBtn" />
+
+        <RelativeLayout
+            android:layout_width="0dip"
+            android:layout_height="match_parent"
+            android:layout_margin="4dip"
+            android:layout_weight="1"
+            android:background="@drawable/oginotihiro_deep_orange_selector"
+            android:clickable="true"
+            android:id="@+id/deepOrangeBtn" />
+
+        <RelativeLayout
+            android:layout_width="0dip"
+            android:layout_height="match_parent"
+            android:layout_margin="4dip"
+            android:layout_weight="1"
+            android:background="@drawable/oginotihiro_blue_grey_selector"
+            android:clickable="true"
+            android:id="@+id/blueGreyBtn" />
+    </LinearLayout>
+</RelativeLayout>

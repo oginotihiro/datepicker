@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="date_picker_view_animator">#FFF2F2F2</color>
+	<color name="calendar_header">#FF999999</color>
+	<color name="white">#FFFFFFFF</color>
+	<color name="line_background">#FFCCCCCC</color>
+	<color name="date_picker_text_normal">#FF999999</color>
+	<color name="done_text_color_normal">#FF616161</color>
+	<color name="done_text_color_disabled">#FFBDBDBD</color>
+</resources>
