@@ -3,8 +3,6 @@
 <img src="https://raw.githubusercontent.com/oginotihiro/datepicker/master/screenshots/sample2.png" width="260" />
 <img src="https://raw.githubusercontent.com/oginotihiro/datepicker/master/screenshots/sample3.png" width="260" />
 
-
-
 ## Usage
 
 Add this in your build.gradle file
