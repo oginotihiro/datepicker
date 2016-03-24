@@ -1,7 +1,9 @@
 # datepicker
-<img src="https://raw.githubusercontent.com/oginotihiro/datepicker/master/screenshots/sample1.png" width="260" />
-<img src="https://raw.githubusercontent.com/oginotihiro/datepicker/master/screenshots/sample2.png" width="260" />
-<img src="https://raw.githubusercontent.com/oginotihiro/datepicker/master/screenshots/sample3.png" width="260" />
+<p align="center">
+    <img src="https://raw.githubusercontent.com/oginotihiro/datepicker/master/screenshots/sample1.png" width="260" />
+    <img src="https://raw.githubusercontent.com/oginotihiro/datepicker/master/screenshots/sample2.png" width="260" />
+    <img src="https://raw.githubusercontent.com/oginotihiro/datepicker/master/screenshots/sample3.png" width="260" />
+</p>
 
 ## Usage
 
