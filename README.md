@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/oginotihiro/datepicker/master/screenshots/sample2.png" width="260" />
 <img src="https://raw.githubusercontent.com/oginotihiro/datepicker/master/screenshots/sample3.png" width="260" />
 
-Supported on API Level 10 and above (2.3+)
+
 
 ## Usage
 
@@ -14,6 +14,9 @@ compile 'com.oginotihiro:datepicker:1.0.0'
 ```
 look at the source code of the [sample][1] 
 
+## Compatibility
+
+Supported on API level 10 and above (2.3+)
 
 ## License
 
